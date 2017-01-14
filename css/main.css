@@ -1686,7 +1686,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #046eff;
+  background: #ffe42d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2498,6 +2498,9 @@ a.search-result {
     width: auto;
     border-radius: initial;
   }
+}
+.main {
+  background: #222;
 }
 .main:before,
 .main:after {
